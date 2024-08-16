@@ -1,0 +1,9 @@
+[submodule "engine"]
+	path = engine
+	url = git@github.com:DrewPackages/engine.git
+[submodule "node-cli"]
+	path = node-cli
+	url = git@github.com:DrewPackages/node-cli.git
+[submodule "host-common"]
+	path = host-common
+	url = git@github.com:DrewPackages/host-common.git
