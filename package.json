@@ -5,7 +5,9 @@
   "scripts": {
     "engine": "pnpm --filter engine",
     "cli": "pnpm --filter node-cli",
-    "host": "pnpm --filter host-common"
+    "host": "pnpm --filter host-common",
+    "localhost:ui": "pnpm --filter localhost/ui",
+    "localhost:desktop": "pnpm --filter localhost/desktop"
   },
   "author": "",
   "license": "ISC"

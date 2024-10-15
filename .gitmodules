@@ -7,3 +7,6 @@
 [submodule "host-common"]
 	path = host-common
 	url = git@github.com:DrewPackages/host-common.git
+[submodule "localhost"]
+	path = localhost
+	url = git@github.com:DrewPackages/localhost.git

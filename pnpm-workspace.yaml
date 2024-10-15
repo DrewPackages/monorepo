@@ -2,3 +2,4 @@ packages:
   - engine
   - host-common
   - node-cli
+  - localhost/*
